@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bd72099-ec67-4cca-8829-b6b16f95cd24" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AppLauncher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WeatherApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/WeatherAppGui.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WeatherApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/WeatherAppGui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WeatherAppGui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/clear.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/clear.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/cloudy.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/cloudy.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +47,29 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Code/WeatherApp",
+    "last_opened_file_path": "C:/Code/WeatherAppGUI-Java/src/WeatherAppGui.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.1727528",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="AppLauncher" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppLauncher" />
+      <module name="WeatherApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-48ba4555" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,5 +80,8 @@
       <updated>1707229140105</updated>
     </task>
     <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WeatherApp$AppLauncher.ic" NAME="AppLauncher Coverage Results" MODIFIED="1707342895309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

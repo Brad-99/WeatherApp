@@ -165,12 +165,3 @@ public class WeatherAppGui extends JFrame {
         return null;
     }
 }
-
-
-
-
-
-
-
-
-
