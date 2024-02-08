@@ -52,7 +52,7 @@ public class WeatherAppGui extends JFrame {
         add(weatherConditionImage);
 
         // temperature text
-        JLabel temperatureText = new JLabel("10 C");
+        JLabel temperatureText = new JLabel("10°C");
         temperatureText.setBounds(0, 350, 450, 54);
         temperatureText.setFont(new Font("Dialog", Font.BOLD, 48));
 
